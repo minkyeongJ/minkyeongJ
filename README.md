@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **minkyeongJ/minkyeongJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### <div align="center">안녕하세요! 조민경입니다. 👨‍💻 프론트엔드 개발자입니다. 🚀</div>  
 
 
-- 🌱 저는 현재 리액트를 공부하고 있습니다.  
+<!-- - 🌱 저는 현재 리액트를 공부하고 있습니다.   -->
     
 
 <br/>  
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts   -->
   
 
 <br/>  
